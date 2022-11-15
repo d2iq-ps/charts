@@ -1,0 +1,32 @@
+apiVersion: v1
+entries:
+  bigbang:
+  - apiVersion: v2
+    created: "2022-11-14T18:29:21.661153-06:00"
+    description: Big Bang is a declarative, continuous delivery tool for core DoD
+      hardened and approved packages into a Kubernetes cluster.
+    digest: 7009453b1df79d2ba8498d5705fc3b0fa4c5586f20332242f65da811e9679a76
+    home: https://p1.dso.mil/#/products/big-bang
+    icon: https://p1.dso.mil/img/Big_Bang_Color_Logo_White_text.b04263b1.png
+    keywords:
+    - platform1
+    - bigbang
+    maintainers:
+    - email: garcia.ryan@solute.us
+      name: Ryan Garcia
+    - email: michaelmcleroy@cloudfitsoftware.com
+      name: Michael McLeroy
+    - email: micah.nagel@defenseunicorns.com
+      name: Micah Nagel
+    - email: cobb_branden@bah.com
+      name: Branden Cobb
+    - email: rob.ferguson@defenseunicorns.com
+      name: Rob Ferguson
+    name: bigbang
+    sources:
+    - https://repo1.dso.mil/platform-one/big-bang/bigbang
+    type: application
+    urls:
+    - bigbang-1.46.1.tgz
+    version: 1.46.1
+generated: "2022-11-14T18:29:21.656072-06:00"
