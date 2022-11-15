@@ -11,8 +11,9 @@ keywords:
 
 home: https://p1.dso.mil/#/products/big-bang
 sources:
-  - https://repo1.dso.mil/platform-one/big-bang/bigbang
-
+  #- https://repo1.dso.mil/platform-one/big-bang/bigbang
+  - https://raw.githubusercontent.com/d2iq-ps/charts/main/repo/
+  
 maintainers:
   - name: Ryan Garcia
     email: garcia.ryan@solute.us
